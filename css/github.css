@@ -8,7 +8,7 @@ h1{
 	font-family: 'Abril Fatface', cursive;
 	font-size: 90px;
 	margin: 0px;
-	color: #ea4623;
+	color: #007f74;
 }
 .container{
 	max-width: 900px;
@@ -17,7 +17,7 @@ h1{
 	margin-top: 60px;
 }
 p{
-	color:#007f74;
+	color:#ea4623;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 30px;
 	font-kerning: 20px;
